@@ -24,13 +24,13 @@
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
 </p>  
     
 <h2></h2>
