@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=fc418e&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
   <a>
 </h1>
 
@@ -36,23 +36,23 @@
 <h2></h2>
 
 <p>
-  <img width"50%" src="https://github-readme-stats.vercel.app/api?username=vatsalsinghkv&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="vatsalsinghkv" />
-  <img width"50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalsinghkv&theme=radical&hide_border=true" alt="vatsalsinghkv" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalsinghkv&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsalsinghkv&theme=gotham&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14" alt="Vatsal's wakatime stats"/>
 </p>
     
 <h2></h2>
     
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=vatsalsinghkv&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=vatsalsinghkv&theme=react-dark&color=2EC4B6&line=2EC4B6&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
 </p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalsinghkv&label=Profile%20views&color=fc418e&style=flat" alt="aniket-24" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalsinghkv&label=Profile%20views&color=2EC4B6&style=flat" alt="aniket-24" /> </p>
