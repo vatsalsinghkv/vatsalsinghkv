@@ -41,8 +41,8 @@
 </p>
 
 <p>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=gotham&hide_border=true" alt="Vatsal's wakatime stats"/>
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=gotham&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
 </p>
     
 <h2></h2>
