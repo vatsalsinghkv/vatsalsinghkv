@@ -48,7 +48,7 @@
 <h2></h2>
     
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=vatsalsinghkv&theme=react-dark&color=2EC4B6&line=2EC4B6&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vatsalsinghkv&theme=react-dark&color=2EC4B6&line=2EC4B6&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <p align="center">
