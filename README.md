@@ -39,28 +39,27 @@
 <h2></h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalsinghkv&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsalsinghkv&theme=gotham&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalsinghkv&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vatsalsinghkv&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
 </p>
 
 <p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=gotham&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=gotham&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
-</p>
-    
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
+
 <h2></h2>
     
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vatsalsinghkv&theme=react-dark&color=2EC4B6&line=2EC4B6&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vatsalsinghkv&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsalsinghkv&theme=tokyonight&utcOffset=4"  width="31%" alt="vatsalsinghkv productive-time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalsinghkv&theme=tokyonight&hide_border=true"  width="64%" alt="vatsalsinghkv profile-details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalsinghkv&theme=tokyonight"  width="31%" alt="vatsalsinghkv github stats"/>
 </p>
 
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
 </p> -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalsinghkv&label=Profile%20views&color=2EC4B6&style=flat" alt="vataslsinghkv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalsinghkv&label=Profile%20views&color=0ea5e9&style=flat" alt="vataslsinghkv" /> </p>
