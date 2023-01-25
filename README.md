@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
@@ -5,8 +6,10 @@
 </h1>
 
 <h3 align="center">A passionate self taught Web Developer, who wants to explore every tech stack 🇮🇳</h3>
-    
- <br>
+-->
+
+[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
+
 
 <h2>About Me</h2>
   
