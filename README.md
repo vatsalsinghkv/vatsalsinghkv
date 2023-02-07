@@ -16,7 +16,7 @@
 - 👩🏻‍💻 I am a final year Computer Science Undergraduate at Shaheed Sukhdev College of Business Studeis, University of Delhi
 - ☀️ Contributing to a few open-source projects (Open Source is always fun)
 - 🏃 In absolute love with ReactJs & NextJs and building web applications with it
-- 📖 I’m currently learning React Native & Data Structures and Algorithms
+- 📖 I’m currently learning Web3 & Data Structures and Algorithms
     
 <h2>Domain of interests</h2>
     
