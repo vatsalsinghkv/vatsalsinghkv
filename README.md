@@ -13,24 +13,24 @@
 
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a final year Computer Science Undergraduate at Shaheed Sukhdev College of Business Studeis, University of Delhi
-- ☀️ Contributing to a few open-source projects (Open Source is always fun)
-- 🏃 In absolute love with ReactJs & NextJs and building web applications with it
-- 📖 I’m currently learning Web3 & Data Structures and Algorithms
+- 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[Shaheed Sukhdev College of Business Studeis, University of Delhi](https://sscbs.du.ac.in/)**
+- ☀️ Contributing to **[open-source projects](https://github.com/issues?q=author%3Avatsalsinghkv+)** (Open Source is always fun)
+- 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
+- 📖 I’m currently learning **AngularJs & Data Structures and Algorithms**
     
 <h2>Domain of interests</h2>
     
 - 💻 Full-stack Web Develppment
 - 📱 Mobile Development
-- 🦾 Artificial Intelligence
 - 👽 Cyber Security
+- 🦾 Artificial Intelligence
   
 <h2>Languages & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
