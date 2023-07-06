@@ -48,9 +48,10 @@
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
 
 <h2></h2>
-    
+
+<!-- Activity Graph -->
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vatsalsinghkv&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=vatsalsinghkv&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
 <p align="center">
