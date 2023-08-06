@@ -8,8 +8,7 @@
 <h3 align="center">A passionate self taught Web Developer, who wants to explore every tech stack 🇮🇳</h3>
 -->
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/231945498-5153e674-2687-4627-acb5-43ea3fb2a3a8.png)](https://vatsalsinghkv.vercel.app/)
-
+[![My Portfolio](https://user-images.githubusercontent.com/68834718/258624703-5836ddb2-7000-455f-9772-bf375457d711.png)](https://vatsalsinghkv.vercel.app/)
 
 <h2>About Me</h2>
   
