@@ -37,6 +37,16 @@
     
 <h2></h2>
 
+<!-- Holopin Profile -->
+<h2> My Holopin Profile</h2>
+<div align="center">
+  
+[![An image of @vatsalsinghkv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalsinghkv)](https://holopin.io/@vatsalsinghkv)
+
+</div>
+
+ <h2></h2>
+
 <p>
   <img src="https://github-readme-stats-kv.vercel.app/api?username=vatsalsinghkv&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
   <img src="https://github-readme-streak-stats-kv.vercel.app?user=vatsalsinghkv&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
