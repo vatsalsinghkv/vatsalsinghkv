@@ -14,8 +14,8 @@
   
 - 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[Shaheed Sukhdev College of Business Studeis, University of Delhi](https://sscbs.du.ac.in/)**
 - ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
-- 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
-- 📖 I’m currently learning **Unit Testing & Data Structures and Algorithms**
+- 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
+- 📖 I’m currently learning **Mobile Dev with React Native & Data Structures and Algorithms**
     
 <h2>Domain of interests</h2>
     
