@@ -12,17 +12,17 @@
 
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a first year Computer Science Postgraduate (MCA) at **[Banaras Hindu University](https://www.bhuonline.in/)**
+- 👩🏻‍💻 I am a final year Computer Science Postgraduate (MCA) at **[Banaras Hindu University](https://www.bhuonline.in/)**
 - ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
-- 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
-- 📖 I’m currently learning **Mobile Development with React Native & Data Structures and Algorithms**
+- 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it.
+- 📖 I’m currently learning **Data Analysis with Python and Data Structures & Algorithms**
     
 <h2>Domain of interests</h2>
     
 - 💻 Full-stack Web Develppment
+- 📊 Data Science
+- 🦾 AI/ML
 - 📱 Mobile Development
-- 👽 Cyber Security
-- 🦾 Artificial Intelligence
   
 <h2>Languages & Tools</h2>
 <p align="center">
